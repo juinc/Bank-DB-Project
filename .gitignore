@@ -11,8 +11,5 @@ bin-int/
 
 # Exclude
 Application/imgui.ini
-<<<<<<< HEAD
 /Application/logs
 Application/rezultate.out
-=======
->>>>>>> parent of 72fdeec (test4)
