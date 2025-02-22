@@ -1,7 +1,7 @@
 # OMNI BANK DATABASE MANAGER
 The omni bank database manager represents a bleeding edge piece of software in bank technology. This application can function with and without an interface (console interface mode). To trigger the no interface mode just create a shortcut and add "-noui" at the end of the „target” section, with a space between the path string to the .exe file of the program, or run the application from a terminal adding the "-noui" argument.
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/81556297/415790911-e8b16a1d-674b-44c9-b320-a6fc8daee1e1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250221%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250221T191325Z&X-Amz-Expires=300&X-Amz-Signature=ae78762acea500ed1684bbc9b57c9694a17abbae01f495a4082cb2bbae3f6a38&X-Amz-SignedHeaders=host" />
+  <img src="https://github.com/user-attachments/assets/864215d1-7856-437f-b8ac-df44a304b4b7" />
 </p>
 
 This is a project that I made for school. There is a translated version of this readme in Romanian nearing the bottom of the page. 
@@ -29,7 +29,7 @@ You can also just download one of the provided zip files from the releases tab, 
 # MANAGERUL DE DATE DE BAZE OMNI BANK
 Managerul de date de bază omni bank reprezintă o tehnologie de vârf în industria bancară. Această aplicație poate funcționa și cu și fără o interfață (în modul de interfață de consolă). Pentru a intra în modul fără interfață, creați un shortcut și adăugați „-noui” la finalul căsuței de target, cu un spațiu la directoriul din care se va încărca fișierul.exe sau rulați programul din terminal cu unul din argumente fiind „-noui”
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/81556297/415790911-e8b16a1d-674b-44c9-b320-a6fc8daee1e1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250221%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250221T191325Z&X-Amz-Expires=300&X-Amz-Signature=ae78762acea500ed1684bbc9b57c9694a17abbae01f495a4082cb2bbae3f6a38&X-Amz-SignedHeaders=host" />
+  <img src="https://github.com/user-attachments/assets/864215d1-7856-437f-b8ac-df44a304b4b7" />
 </p>
 
 Acesta este un proiect pe care l-am făcut pentru școală.
