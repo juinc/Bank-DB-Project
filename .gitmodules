@@ -1,7 +1,3 @@
-[submodule "vendor/imgui"]
-	path = vendor/imgui
-	url = https://github.com/TheCherno/imgui
-	branch = docking
 [submodule "vendor/GLFW"]
 	path = vendor/GLFW
 	url = https://github.com/TheCherno/GLFW
@@ -14,3 +10,7 @@
 [submodule "vendor/glm"]
 	path = vendor/glm
 	url = https://github.com/g-truc/glm
+[submodule "vendor/imgui"]
+	path = vendor/imgui
+	url = https://github.com/TheCherno/imgui
+	branch = docking
