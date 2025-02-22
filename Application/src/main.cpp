@@ -14,7 +14,7 @@ int main(int argc, char** argv)
 	//Daca nu intalnim "-noui", avem interfata
 	if (noui == false) {
 		//Daca nu suntem in modul debug si avem interfata, ascundem consola
-		#ifndef _DEBUG
+		#ifndef WL_DEBUG
 			ShowWindow(GetConsoleWindow(), SW_HIDE);
 		#endif
 			
