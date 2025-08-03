@@ -1,7 +1,7 @@
 # OMNI BANK DATABASE MANAGER
 The omni bank database manager represents a bleeding edge piece of software in bank technology. This application can function with and without an interface (console interface mode). To trigger the no interface mode just create a shortcut and add "-noui" at the end of the „target” section, with a space between the path string to the .exe file of the program, or run the application from a terminal adding the "-noui" argument.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b8da1b87-2906-480e-b5f7-a04e3c8c2ee2" />
+  <img src="https://github.com/user-attachments/assets/2c71cf73-c5f6-4846-9522-2de86473c76f" />
 </p>
 
 This is a project that I made for school. There is a translated version of this readme in Romanian nearing the bottom of the page.
@@ -39,7 +39,7 @@ Reuploaded for e-mail privacy concerns.
 # MANAGERUL DE DATE DE BAZE OMNI BANK
 Managerul de date de bază omni bank reprezintă o tehnologie de vârf în industria bancară. Această aplicație poate funcționa și cu și fără o interfață (în modul de interfață de consolă). Pentru a intra în modul fără interfață, creați un shortcut și adăugați „-noui” la finalul căsuței de target, cu un spațiu la directoriul din care se va încărca fișierul.exe sau rulați programul din terminal cu unul din argumente fiind „-noui”
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b8da1b87-2906-480e-b5f7-a04e3c8c2ee2" />
+  <img src="https://github.com/user-attachments/assets/2c71cf73-c5f6-4846-9522-2de86473c76f" />
 </p>
 
 Acesta este un proiect pe care l-am făcut pentru școală.
