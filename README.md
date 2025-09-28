@@ -61,7 +61,7 @@ Librăria menționată anterior folosește și ea altele precum `imgui`, `glfw`,
 - [GLM](https://github.com/g-truc/glm)
 - [yaml-cpp](https://github.com/jbeder/yaml-cpp)
 - [spdlog](https://github.com/gabime/spdlog)
-- [premake](https://premake.github.io/) (just the binaries)
+- [premake](https://premake.github.io/) (doar fișierele .exe)
   
 **Extra**
 - Walnut folosește fontul [Roboto](https://fonts.google.com/specimen/Roboto), ([Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0))
